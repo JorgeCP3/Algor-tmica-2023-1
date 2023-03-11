@@ -1,1 +1,1 @@
-# Algor-tmica-2023-1
+# Algoritmica-2023-1
